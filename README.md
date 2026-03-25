@@ -104,12 +104,6 @@ That's it. The widget fetches evidence data from the HairCited API and renders i
 <script src="https://cdn.jsdelivr.net/npm/haircited-embed@1/dist/embed.min.js"></script>
 ```
 
-### R2 CDN (haircited.com hosted)
-
-```html
-<script src="https://cdn.haircited.com/embed.min.js"></script>
-```
-
 ### npm (for bundlers)
 
 ```bash
