@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# HairCited Embed Widget
+# Main site: https://haircited.com
+# Widget docs: https://widget.haircited.com
+# npm: https://www.npmjs.com/package/haircited-embed
