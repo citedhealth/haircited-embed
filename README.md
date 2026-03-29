@@ -148,6 +148,17 @@ Part of [Cited Health](https://citedhealth.com) — Evidence-based health inform
 | HeartCited | [heartcited.com](https://heartcited.com) | Cardiovascular health, cholesterol, blood pressure | [npm](https://www.npmjs.com/package/heartcited-embed) |
 | SkinCited | [skincited.com](https://skincited.com) | Skin health, collagen, acne, UV protection | [npm](https://www.npmjs.com/package/skincited-embed) |
 
+## Embed Widget
+
+Embed [HairCited](https://haircited.com) widgets on any website with [haircited-embed](https://widget.haircited.com):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/haircited-embed@1/dist/embed.min.js"></script>
+<div data-haircited="entity" data-slug="example"></div>
+```
+
+Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.haircited.com)
+
 ## License
 
 MIT — see [LICENSE](./LICENSE).
